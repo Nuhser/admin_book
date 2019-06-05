@@ -15,4 +15,4 @@ Page 5 and 6 let you spawn **villager** in all variations.
 The next page is for spawning **chicken and spider jockeys and horsemen**.  
 The last page can **modify mobs** and increase the **random tick speed** of the world.
 
-You can get the book by using the command */function admin_book:give*.
+You can get the book by using the command `/function admin_book:give`.
