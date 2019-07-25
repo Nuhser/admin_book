@@ -1,5 +1,7 @@
-# admin_book (v1.1.4)
+# Admin Book
+
 ### by Nuhser
+
 <br>
 
 **Warning: This pack requires [nuhser_core](https://github.com/Nuhser/nuhser_core "Nuhser_Core") to be installed first!**
