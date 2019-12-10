@@ -1,8 +1,5 @@
-#
-# Desc.: Deletes the scoreboards from the admin book.
-# Called By: player
-# @s: player
-#
+#> Deletes the scoreboards from the admin book.
+# Called By: player <PLAYER>
 
 #remove all scoreboards created by admin_book
 tellraw @a ["",{"text":"Removing all scoreboards for Admin Books...","color":"yellow"}]

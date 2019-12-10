@@ -1,8 +1,6 @@
-#
-# Desc.: Initializes the scoreboards for the admin book.
-# Called By: #nuhser_core:init
-# @s: <SERVER>
-#
+#> Initializes the scoreboards for the admin book.
+# Called By: #nuhser_core:init <SERVER>
+
 tellraw @a ["",{"text":"----------------------------------------"}]
 tellraw @a ["",{"text":"admin_book: Loading Admin Book...","color":"dark_purple"}]
 
