@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "admin_book:help"
+    "admin_book:_help"
   ]
 }
