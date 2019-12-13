@@ -6,7 +6,7 @@
 
 #calculate which way to toggle
 scoreboard players remove @s ab_conduit 1
-scoreboard players operation @s ab_conduit *= $-1 nuhser_constants
+scoreboard players operation @s ab_conduit *= $-1 nc_constants
 
 #give effect
 execute if score @s ab_conduit matches 1 run effect give @s minecraft:conduit_power 1000000 0 true

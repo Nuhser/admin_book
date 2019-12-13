@@ -6,7 +6,7 @@
 
 #calculate which way to toggle
 scoreboard players remove @s ab_dolphin 1
-scoreboard players operation @s ab_dolphin *= $-1 nuhser_constants
+scoreboard players operation @s ab_dolphin *= $-1 nc_constants
 
 #give effect
 execute if score @s ab_dolphin matches 1 run effect give @s minecraft:dolphins_grace 1000000 0 true
