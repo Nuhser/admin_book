@@ -4,7 +4,7 @@
 
 <br>
 
-**Requires [nuhser_core 4.0.0](https://github.com/Nuhser/nuhser_core "Nuhser_Core") or newer to be installed first!**
+**Requires [nuhser_core 4.0.0](https://github.com/Nuhser/nuhser_core/releases "Nuhser_Core") or newer to be installed first!**
 
 This pack gives you an almost magical book which has all sorts of cool features.  
 It is inspired by the book from [Xisumavoid's 700K special world](https://www.youtube.com/watch?v=oLF8b_YS3Yk "Xisumavoid's video").
